@@ -27,12 +27,16 @@ __pycache__/
 *.db
 .pytest_cache/
 
-# Presentations, PDFs & Presentation Assets
+# Presentations, PDFs & Pitch Assets
 *.pptx
 *.pdf
 template_extracted_images/
 deck_assets/
 template_analysis.txt
+docs/generated_slides/
+docs/sih_assets/
+docs/vigil_ref_slides/
+docs/SIH_PITCH_DECK_GUIDE.md
 
 # Scratch scripts & temporary recovery files
 scratch/
@@ -41,6 +45,14 @@ build_presentation.py
 generate_deck_assets.py
 generate_process_flow.py
 recovered_data.json
+build_git_branches.ps1
+
+# Large raw benchmark datasets (>50MB)
+datasets/Supply chain logistics problem/
+datasets/VRPTW Benchmark Datasets/
+datasets/india_multicity_historical_climate/
+datasets/logistics_dataset_with_maintenance_required/
+datasets/processed_tsv/
 
 # Legacy & Reference Archives
 legacy/
@@ -57,6 +69,3 @@ modules/
 *.njsproj
 *.sln
 *.sw?
-
-build_git_branches.ps1
-
