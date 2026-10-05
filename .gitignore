@@ -69,3 +69,6 @@ modules/
 *.njsproj
 *.sln
 *.sw?
+
+build_remaining_branches.ps1
+
