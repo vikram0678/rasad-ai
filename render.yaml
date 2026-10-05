@@ -1,0 +1,30 @@
+﻿services:
+  # RASAD-AI Backend API (FastAPI)
+  - type: web
+    name: rasad-ai-api
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT --app-dir backend
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.10.12
+      - key: ENVIRONMENT
+        value: production
+    healthCheckPath: /api/v1/health
+
+  # RASAD-AI Frontend Web Dashboard (React + Vite)
+  - type: web
+    name: rasad-ai-web
+    runtime: static
+    buildCommand: cd frontend && npm install && npm run build
+    staticPublishPath: frontend/dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    envVars:
+      - key: VITE_API_BASE_URL
+        fromService:
+          type: web
+          name: rasad-ai-api
+          property: host
