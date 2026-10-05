@@ -1,0 +1,80 @@
+{
+  "system": "RASAD-AI C4ISR Operational Intelligence Core",
+  "generated_at": "2026-10-04 11:49:42 IST",
+  "hardware": {
+    "device": "cuda",
+    "gpu_name": "NVIDIA GeForce RTX (CUDA 12.x Accelerated)",
+    "cuda_available": true
+  },
+  "models": {
+    "demand_regressor": {
+      "name": "High-Altitude Cold-Weather Logistics Forecaster",
+      "training_data": "31,621 daily climate records of Leh, Ladakh (1940-2026)",
+      "algorithm": "Multi-Output GPU-Accelerated Gradient Boosted Trees (XGBoost)",
+      "metrics": {
+        "daily_fuel_liters": {
+          "r2_score": 0.9987,
+          "mae": 14.17,
+          "rmse": 18.26
+        },
+        "daily_rations_kg": {
+          "r2_score": 0.9996,
+          "mae": 4.47,
+          "rmse": 5.63
+        },
+        "daily_ammo_rounds": {
+          "r2_score": 0.9997,
+          "mae": 41.72,
+          "rmse": 53.42
+        },
+        "daily_medical_kits": {
+          "r2_score": 0.9999,
+          "mae": 0.01,
+          "rmse": 0.08
+        }
+      },
+      "feature_importances": {
+        "troops": 0.0256,
+        "altitude_m": 0.0256,
+        "ambient_temp_c": 0.0256,
+        "apparent_temp_c": 0.0256,
+        "wind_speed_kmh": 0.0256,
+        "snowfall_cm": 0.0256,
+        "solar_radiation_mj": 0.0256
+      }
+    },
+    "convoy_predictor": {
+      "name": "Convoy Mechanical Failure & Telematics Anomaly Classifier",
+      "training_data": "120,000 CAN-bus telematics records with 50 operational variables",
+      "algorithm": "GPU-Accelerated XGBoost Binary Classifier with Stratified Split",
+      "metrics": {
+        "accuracy": 0.9993,
+        "precision": 0.9993,
+        "recall": 0.9985,
+        "f1_score": 0.9989,
+        "training_samples": 96000
+      },
+      "feature_importances": {
+        "Engine_Temperature": 0.0055,
+        "Tire_Pressure": 0.0021,
+        "Fuel_Consumption": 0.1436,
+        "Battery_Status": 0.1336,
+        "Vibration_Levels": 0.6048,
+        "Oil_Quality": 0.053,
+        "CAN_Message_Rate_Hz": 0.0031,
+        "Sensor_Packet_Loss_Rate": 0.051,
+        "Actual_Load": 0.003,
+        "Usage_Hours": 0.0002
+      }
+    },
+    "bridge_risk": {
+      "name": "Himalayan Flash Flood & Bridge Interdiction Forecaster",
+      "training_data": "13,390 Himalayan river basin hydrological records",
+      "algorithm": "Hydrological Discharge Threshold XGBoost Classifier",
+      "metrics": {
+        "accuracy": 0.9963,
+        "f1_score": 0.993
+      }
+    }
+  }
+}
