@@ -1,0 +1,468 @@
+/* ========================================================================== */
+/* RASAD Sahayak AI - Tactical Military Floating Chatbot Styles               */
+/* ========================================================================== */
+
+/* Floating Circular Launcher & Attention Wrapper */
+.rasad-launcher-wrapper {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  z-index: 9990;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  animation: rasad-float 3.5s ease-in-out infinite;
+}
+
+@keyframes rasad-float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+.rasad-launcher-tooltip {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  background: rgba(10, 15, 29, 0.95);
+  border: 1px solid rgba(56, 189, 248, 0.5);
+  padding: 6px 12px;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.55), 0 0 12px rgba(56, 189, 248, 0.3);
+  backdrop-filter: blur(10px);
+  pointer-events: none;
+  opacity: 0;
+  transform: translateX(10px);
+  transition: opacity 0.25s cubic-bezier(0.16, 1, 0.3, 1), transform 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  white-space: nowrap;
+}
+
+.rasad-launcher-wrapper:hover .rasad-launcher-tooltip {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+.rasad-tooltip-title {
+  font-size: 11.5px;
+  font-weight: 700;
+  color: #ffffff;
+  letter-spacing: 0.3px;
+}
+
+.rasad-tooltip-sub {
+  font-size: 9.5px;
+  color: #38bdf8;
+  font-weight: 600;
+}
+
+/* Circular Floating Bot Button */
+.rasad-circle-launcher {
+  width: 58px;
+  height: 58px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 35%, #0284c7 0%, #0369a1 45%, #081225 100%);
+  border: 2px solid #38bdf8;
+  cursor: pointer;
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 8px 24px rgba(2, 132, 199, 0.45), 0 0 16px rgba(56, 189, 248, 0.3);
+  transition: all 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.rasad-circle-launcher:hover {
+  transform: scale(1.1) rotate(5deg);
+  box-shadow: 0 12px 32px rgba(2, 132, 199, 0.65), 0 0 24px rgba(56, 189, 248, 0.6);
+  border-color: #7dd3fc;
+}
+
+.rasad-circle-icon {
+  font-size: 26px;
+  line-height: 1;
+  user-select: none;
+  filter: drop-shadow(0 2px 4px rgba(0, 0, 0, 0.6));
+  transition: transform 0.25s ease;
+}
+
+.rasad-circle-launcher:hover .rasad-circle-icon {
+  transform: scale(1.15);
+}
+
+/* Pulsing Radar Waves */
+.rasad-radar-wave {
+  position: absolute;
+  inset: -6px;
+  border-radius: 50%;
+  border: 1.5px solid rgba(56, 189, 248, 0.65);
+  animation: rasad-radar-pulse 2.8s cubic-bezier(0.2, 0.8, 0.2, 1) infinite;
+  pointer-events: none;
+}
+
+.rasad-radar-wave.wave-2 {
+  animation-delay: 1.4s;
+}
+
+@keyframes rasad-radar-pulse {
+  0% {
+    transform: scale(0.95);
+    opacity: 0.9;
+  }
+  100% {
+    transform: scale(1.6);
+    opacity: 0;
+  }
+}
+
+.rasad-launcher-dot {
+  position: absolute;
+  top: 4px;
+  right: 4px;
+  width: 10px;
+  height: 10px;
+  background: #10b981;
+  border: 2px solid #0f172a;
+  border-radius: 50%;
+  box-shadow: 0 0 8px #10b981;
+}
+
+/* Main Glassmorphic Chat Window */
+.rasad-chat-window {
+  position: fixed;
+  bottom: 24px;
+  right: 24px;
+  width: 410px;
+  height: 600px;
+  max-height: calc(100vh - 48px);
+  background: rgba(10, 16, 28, 0.95);
+  border: 1px solid rgba(56, 189, 248, 0.35);
+  border-radius: 14px;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.7), 0 0 20px rgba(56, 189, 248, 0.15);
+  backdrop-filter: blur(16px);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  z-index: 9995;
+  animation: rasad-slide-up 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+@keyframes rasad-slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px) scale(0.96);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+/* Header */
+.rasad-chat-header {
+  padding: 12px 14px;
+  background: linear-gradient(180deg, rgba(14, 165, 233, 0.12) 0%, rgba(15, 23, 42, 0.6) 100%);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.rasad-header-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.rasad-avatar-icon {
+  font-size: 20px;
+  width: 34px;
+  height: 34px;
+  border-radius: 8px;
+  background: rgba(14, 165, 233, 0.15);
+  border: 1px solid rgba(56, 189, 248, 0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rasad-header-title {
+  font-size: 0.88rem;
+  font-weight: 700;
+  color: #f8fafc;
+  line-height: 1.2;
+}
+
+.rasad-header-sub {
+  font-size: 0.65rem;
+  color: #38bdf8;
+  font-weight: 500;
+}
+
+.rasad-header-actions {
+  display: flex;
+  gap: 6px;
+}
+
+.rasad-btn-icon {
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  color: #94a3b8;
+  width: 26px;
+  height: 26px;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 0.72rem;
+  transition: all 0.15s;
+}
+
+.rasad-btn-icon:hover {
+  background: rgba(255, 255, 255, 0.12);
+  color: #ffffff;
+}
+
+/* Language Filter Bar */
+.rasad-language-filter-bar {
+  padding: 6px 12px;
+  background: rgba(15, 23, 42, 0.7);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.rasad-lang-label {
+  font-size: 0.68rem;
+  color: #94a3b8;
+  font-weight: 500;
+}
+
+.rasad-lang-pills {
+  display: flex;
+  gap: 4px;
+}
+
+.rasad-lang-pill {
+  background: rgba(30, 41, 59, 0.6);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  color: #94a3b8;
+  font-size: 0.64rem;
+  font-weight: 600;
+  padding: 2px 7px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.rasad-lang-pill:hover {
+  color: #ffffff;
+}
+
+.rasad-lang-pill.active {
+  background: #1456cb;
+  border-color: #38bdf8;
+  color: #ffffff;
+}
+
+/* Synced State Banner */
+.rasad-synced-banner {
+  padding: 6px 12px;
+  background: rgba(2, 132, 199, 0.12);
+  border-bottom: 1px solid rgba(56, 189, 248, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.68rem;
+  color: #e2e8f0;
+}
+
+.rasad-synced-left {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.rasad-synced-right {
+  color: #94a3b8;
+  font-family: var(--iplms-font-mono, monospace);
+  font-size: 0.64rem;
+}
+
+/* Messages Area */
+.rasad-messages-area {
+  flex: 1;
+  overflow-y: auto;
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.rasad-msg {
+  display: flex;
+  flex-direction: column;
+  max-width: 88%;
+}
+
+.rasad-msg.user {
+  align-self: flex-end;
+  align-items: flex-end;
+}
+
+.rasad-msg.assistant {
+  align-self: flex-start;
+  align-items: flex-start;
+}
+
+.rasad-msg-bubble {
+  padding: 9px 12px;
+  border-radius: 10px;
+  font-size: 0.74rem;
+  line-height: 1.45;
+}
+
+.rasad-msg.user .rasad-msg-bubble {
+  background: #1456cb;
+  color: #ffffff;
+  border-bottom-right-radius: 2px;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+}
+
+.rasad-msg.assistant .rasad-msg-bubble {
+  background: rgba(15, 23, 42, 0.85);
+  color: #e2e8f0;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-bottom-left-radius: 2px;
+}
+
+.rasad-msg-bubble.critical-border {
+  border-left: 3px solid #ef4444;
+}
+
+.rasad-msg-time {
+  font-size: 0.60rem;
+  color: #64748b;
+  margin-top: 3px;
+  padding: 0 4px;
+}
+
+/* Suggestions Stack */
+.rasad-suggestions-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-top: 6px;
+  align-items: flex-end;
+}
+
+.rasad-suggestion-pill {
+  background: rgba(15, 23, 42, 0.75);
+  border: 1px solid rgba(56, 189, 248, 0.3);
+  color: #7dd3fc;
+  font-size: 0.68rem;
+  font-weight: 500;
+  padding: 6px 10px;
+  border-radius: 16px;
+  cursor: pointer;
+  text-align: right;
+  transition: all 0.15s;
+  max-width: 95%;
+}
+
+.rasad-suggestion-pill:hover {
+  background: rgba(2, 132, 199, 0.25);
+  color: #ffffff;
+  border-color: #38bdf8;
+  transform: translateX(-2px);
+}
+
+/* Typing Indicator */
+.rasad-typing {
+  display: flex;
+  gap: 4px;
+  padding: 8px 12px;
+  background: rgba(15, 23, 42, 0.85);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.rasad-typing-dot {
+  width: 6px;
+  height: 6px;
+  background: #38bdf8;
+  border-radius: 50%;
+  animation: rasad-bounce 1.4s infinite ease-in-out both;
+}
+
+.rasad-typing-dot:nth-child(1) { animation-delay: -0.32s; }
+.rasad-typing-dot:nth-child(2) { animation-delay: -0.16s; }
+
+@keyframes rasad-bounce {
+  0%, 80%, 100% { transform: scale(0); }
+  40% { transform: scale(1.0); }
+}
+
+/* Input Form */
+.rasad-input-form {
+  padding: 10px 12px;
+  background: rgba(10, 16, 28, 0.98);
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  display: flex;
+  gap: 8px;
+}
+
+.rasad-input-field {
+  flex: 1;
+  background: rgba(15, 23, 42, 0.8);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  color: #f8fafc;
+  font-size: 0.74rem;
+  padding: 8px 12px;
+  border-radius: 8px;
+  outline: none;
+  transition: border-color 0.15s;
+}
+
+.rasad-input-field:focus {
+  border-color: #38bdf8;
+}
+
+.rasad-btn-send {
+  background: #1456cb;
+  border: 1px solid #2563eb;
+  color: #ffffff;
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 0.82rem;
+  transition: all 0.15s;
+  box-shadow: 0 0 10px rgba(37, 99, 235, 0.35);
+}
+
+.rasad-btn-send:hover:not(:disabled) {
+  background: #1d4ed8;
+  box-shadow: 0 0 14px rgba(37, 99, 235, 0.55);
+}
+
+.rasad-btn-send:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+@media (max-width: 480px) {
+  .rasad-chat-window {
+    width: calc(100vw - 32px);
+    right: 16px;
+    bottom: 16px;
+    height: 520px;
+  }
+}
