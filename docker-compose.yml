@@ -1,0 +1,61 @@
+version: '3.8'
+
+services:
+  # 1. FastAPI Predictive Logistics Engine
+  rasad-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: rasad_logistics_api
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - HOST=0.0.0.0
+      - PORT=8000
+      - REDIS_URL=redis://rasad-redis:6379/0
+      - DATABASE_URL=postgresql://army_admin:SOP_Siachen_2026@rasad-db:5432/rasad_tactical
+    volumes:
+      - ./backend/data:/app/backend/data
+      - ./backend/saved_models:/app/backend/saved_models
+    depends_on:
+      - rasad-redis
+      - rasad-db
+    networks:
+      - defense_mesh
+
+  # 2. Redis Telemetry Cache & Task Broker
+  rasad-redis:
+    image: redis:7.2-alpine
+    container_name: rasad_redis_cache
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+    volumes:
+      - redis_data:/data
+    networks:
+      - defense_mesh
+
+  # 3. PostgreSQL / PostGIS Spatial Database
+  rasad-db:
+    image: postgis/postgis:16-3.4-alpine
+    container_name: rasad_spatial_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: army_admin
+      POSTGRES_PASSWORD: SOP_Siachen_2026
+      POSTGRES_DB: rasad_tactical
+    ports:
+      - "5432:5432"
+    volumes:
+      - pg_data:/var/lib/postgresql/data
+    networks:
+      - defense_mesh
+
+networks:
+  defense_mesh:
+    driver: bridge
+
+volumes:
+  redis_data:
+  pg_data:
