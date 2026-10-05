@@ -1,4 +1,4 @@
-﻿services:
+services:
   # RASAD-AI Backend API (FastAPI)
   - type: web
     name: rasad-ai-api
@@ -15,7 +15,7 @@
 
   # RASAD-AI Frontend Web Dashboard (React + Vite)
   - type: web
-    name: rasad-ai-web
+    name: rasad-ai
     runtime: static
     buildCommand: cd frontend && npm install && npm run build
     staticPublishPath: frontend/dist
