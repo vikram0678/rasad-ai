@@ -1,0 +1,62 @@
+﻿# Dependencies
+node_modules/
+frontend/node_modules/
+.venv/
+venv/
+*/venv/
+*/py_venv/
+
+# Build artifacts
+dist/
+frontend/dist/
+dist-ssr/
+*.local
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python caches & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite
+*.db
+.pytest_cache/
+
+# Presentations, PDFs & Presentation Assets
+*.pptx
+*.pdf
+template_extracted_images/
+deck_assets/
+template_analysis.txt
+
+# Scratch scripts & temporary recovery files
+scratch/
+scratch_*.py
+build_presentation.py
+generate_deck_assets.py
+generate_process_flow.py
+recovered_data.json
+
+# Legacy & Reference Archives
+legacy/
+Defense-AI-Features/
+modules/
+
+# Editor & OS files
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+build_git_branches.ps1
+
