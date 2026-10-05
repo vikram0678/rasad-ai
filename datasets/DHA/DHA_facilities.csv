@@ -1,0 +1,1001 @@
+facility_id,location,operational_status,supported_population,facility_type
+MTF-0001,"Fort Liberty, NC",degraded,35511,clinic
+MTF-0002,"San Antonio, TX",operational,13516,hospital
+MTF-0003,"Landstuhl, DE",operational,43772,field_hospital
+MTF-0004,"Yokosuka, JP",operational,39082,medical_center
+MTF-0005,"Honolulu, HI",operational,23351,clinic
+MTF-0006,"Norfolk, VA",operational,9996,hospital
+MTF-0007,"Colorado Springs, CO",operational,37963,field_hospital
+MTF-0008,"Camp Humphreys, KR",operational,18465,medical_center
+MTF-0009,"Fort Liberty, NC",operational,11439,clinic
+MTF-0010,"San Antonio, TX",operational,33289,hospital
+MTF-0011,"Landstuhl, DE",operational,20727,field_hospital
+MTF-0012,"Yokosuka, JP",operational,31393,medical_center
+MTF-0013,"Honolulu, HI",operational,12609,clinic
+MTF-0014,"Norfolk, VA",operational,18946,hospital
+MTF-0015,"Colorado Springs, CO",operational,10727,field_hospital
+MTF-0016,"Camp Humphreys, KR",operational,43079,medical_center
+MTF-0017,"Fort Liberty, NC",operational,31912,clinic
+MTF-0018,"San Antonio, TX",operational,17510,hospital
+MTF-0019,"Landstuhl, DE",operational,14998,field_hospital
+MTF-0020,"Yokosuka, JP",operational,41326,medical_center
+MTF-0021,"Honolulu, HI",operational,1271,clinic
+MTF-0022,"Norfolk, VA",operational,11127,hospital
+MTF-0023,"Colorado Springs, CO",operational,29853,field_hospital
+MTF-0024,"Camp Humphreys, KR",operational,35778,medical_center
+MTF-0025,"Fort Liberty, NC",operational,7429,clinic
+MTF-0026,"San Antonio, TX",operational,5198,hospital
+MTF-0027,"Landstuhl, DE",operational,35051,field_hospital
+MTF-0028,"Yokosuka, JP",operational,36342,medical_center
+MTF-0029,"Honolulu, HI",operational,4534,clinic
+MTF-0030,"Norfolk, VA",degraded,28645,hospital
+MTF-0031,"Colorado Springs, CO",operational,23644,field_hospital
+MTF-0032,"Camp Humphreys, KR",operational,28180,medical_center
+MTF-0033,"Fort Liberty, NC",operational,38350,clinic
+MTF-0034,"San Antonio, TX",operational,43478,hospital
+MTF-0035,"Landstuhl, DE",operational,32043,field_hospital
+MTF-0036,"Yokosuka, JP",operational,16282,medical_center
+MTF-0037,"Honolulu, HI",operational,17683,clinic
+MTF-0038,"Norfolk, VA",operational,42488,hospital
+MTF-0039,"Colorado Springs, CO",operational,12460,field_hospital
+MTF-0040,"Camp Humphreys, KR",operational,1236,medical_center
+MTF-0041,"Fort Liberty, NC",operational,37765,clinic
+MTF-0042,"San Antonio, TX",operational,2017,hospital
+MTF-0043,"Landstuhl, DE",operational,24028,field_hospital
+MTF-0044,"Yokosuka, JP",operational,25971,medical_center
+MTF-0045,"Honolulu, HI",operational,1923,clinic
+MTF-0046,"Norfolk, VA",operational,35360,hospital
+MTF-0047,"Colorado Springs, CO",operational,28496,field_hospital
+MTF-0048,"Camp Humphreys, KR",operational,43845,medical_center
+MTF-0049,"Fort Liberty, NC",operational,13539,clinic
+MTF-0050,"San Antonio, TX",operational,35505,hospital
+MTF-0051,"Landstuhl, DE",operational,11558,field_hospital
+MTF-0052,"Yokosuka, JP",operational,37092,medical_center
+MTF-0053,"Honolulu, HI",operational,39873,clinic
+MTF-0054,"Norfolk, VA",operational,20538,hospital
+MTF-0055,"Colorado Springs, CO",operational,4963,field_hospital
+MTF-0056,"Camp Humphreys, KR",operational,24755,medical_center
+MTF-0057,"Fort Liberty, NC",operational,30501,clinic
+MTF-0058,"San Antonio, TX",operational,3141,hospital
+MTF-0059,"Landstuhl, DE",degraded,40701,field_hospital
+MTF-0060,"Yokosuka, JP",operational,10863,medical_center
+MTF-0061,"Honolulu, HI",operational,37704,clinic
+MTF-0062,"Norfolk, VA",operational,41268,hospital
+MTF-0063,"Colorado Springs, CO",operational,35184,field_hospital
+MTF-0064,"Camp Humphreys, KR",operational,23745,medical_center
+MTF-0065,"Fort Liberty, NC",operational,30790,clinic
+MTF-0066,"San Antonio, TX",operational,25680,hospital
+MTF-0067,"Landstuhl, DE",operational,12953,field_hospital
+MTF-0068,"Yokosuka, JP",operational,7975,medical_center
+MTF-0069,"Honolulu, HI",operational,41949,clinic
+MTF-0070,"Norfolk, VA",operational,17183,hospital
+MTF-0071,"Colorado Springs, CO",operational,22585,field_hospital
+MTF-0072,"Camp Humphreys, KR",operational,9087,medical_center
+MTF-0073,"Fort Liberty, NC",operational,1865,clinic
+MTF-0074,"San Antonio, TX",operational,43984,hospital
+MTF-0075,"Landstuhl, DE",operational,43072,field_hospital
+MTF-0076,"Yokosuka, JP",operational,34325,medical_center
+MTF-0077,"Honolulu, HI",operational,13953,clinic
+MTF-0078,"Norfolk, VA",operational,16260,hospital
+MTF-0079,"Colorado Springs, CO",operational,12106,field_hospital
+MTF-0080,"Camp Humphreys, KR",operational,7288,medical_center
+MTF-0081,"Fort Liberty, NC",operational,2664,clinic
+MTF-0082,"San Antonio, TX",operational,25624,hospital
+MTF-0083,"Landstuhl, DE",operational,29800,field_hospital
+MTF-0084,"Yokosuka, JP",operational,23017,medical_center
+MTF-0085,"Honolulu, HI",operational,40998,clinic
+MTF-0086,"Norfolk, VA",operational,17806,hospital
+MTF-0087,"Colorado Springs, CO",operational,1502,field_hospital
+MTF-0088,"Camp Humphreys, KR",degraded,8611,medical_center
+MTF-0089,"Fort Liberty, NC",operational,3419,clinic
+MTF-0090,"San Antonio, TX",operational,18504,hospital
+MTF-0091,"Landstuhl, DE",operational,41509,field_hospital
+MTF-0092,"Yokosuka, JP",operational,41665,medical_center
+MTF-0093,"Honolulu, HI",operational,5058,clinic
+MTF-0094,"Norfolk, VA",operational,11970,hospital
+MTF-0095,"Colorado Springs, CO",operational,33568,field_hospital
+MTF-0096,"Camp Humphreys, KR",operational,8890,medical_center
+MTF-0097,"Fort Liberty, NC",operational,28634,clinic
+MTF-0098,"San Antonio, TX",operational,7019,hospital
+MTF-0099,"Landstuhl, DE",operational,3738,field_hospital
+MTF-0100,"Yokosuka, JP",operational,12949,medical_center
+MTF-0101,"Honolulu, HI",operational,44244,clinic
+MTF-0102,"Norfolk, VA",operational,35298,hospital
+MTF-0103,"Colorado Springs, CO",operational,35250,field_hospital
+MTF-0104,"Camp Humphreys, KR",operational,9606,medical_center
+MTF-0105,"Fort Liberty, NC",operational,24710,clinic
+MTF-0106,"San Antonio, TX",operational,15742,hospital
+MTF-0107,"Landstuhl, DE",operational,23651,field_hospital
+MTF-0108,"Yokosuka, JP",operational,16479,medical_center
+MTF-0109,"Honolulu, HI",operational,26868,clinic
+MTF-0110,"Norfolk, VA",operational,8804,hospital
+MTF-0111,"Colorado Springs, CO",operational,26683,field_hospital
+MTF-0112,"Camp Humphreys, KR",operational,20763,medical_center
+MTF-0113,"Fort Liberty, NC",operational,30735,clinic
+MTF-0114,"San Antonio, TX",operational,15643,hospital
+MTF-0115,"Landstuhl, DE",operational,16385,field_hospital
+MTF-0116,"Yokosuka, JP",operational,14926,medical_center
+MTF-0117,"Honolulu, HI",degraded,40700,clinic
+MTF-0118,"Norfolk, VA",operational,1589,hospital
+MTF-0119,"Colorado Springs, CO",operational,32624,field_hospital
+MTF-0120,"Camp Humphreys, KR",operational,22033,medical_center
+MTF-0121,"Fort Liberty, NC",operational,29426,clinic
+MTF-0122,"San Antonio, TX",operational,33345,hospital
+MTF-0123,"Landstuhl, DE",operational,12818,field_hospital
+MTF-0124,"Yokosuka, JP",operational,27932,medical_center
+MTF-0125,"Honolulu, HI",operational,28350,clinic
+MTF-0126,"Norfolk, VA",operational,29975,hospital
+MTF-0127,"Colorado Springs, CO",operational,7785,field_hospital
+MTF-0128,"Camp Humphreys, KR",operational,15691,medical_center
+MTF-0129,"Fort Liberty, NC",operational,12224,clinic
+MTF-0130,"San Antonio, TX",operational,18398,hospital
+MTF-0131,"Landstuhl, DE",operational,36237,field_hospital
+MTF-0132,"Yokosuka, JP",operational,41813,medical_center
+MTF-0133,"Honolulu, HI",operational,37328,clinic
+MTF-0134,"Norfolk, VA",operational,15182,hospital
+MTF-0135,"Colorado Springs, CO",operational,43093,field_hospital
+MTF-0136,"Camp Humphreys, KR",operational,37823,medical_center
+MTF-0137,"Fort Liberty, NC",operational,36056,clinic
+MTF-0138,"San Antonio, TX",operational,2602,hospital
+MTF-0139,"Landstuhl, DE",operational,37412,field_hospital
+MTF-0140,"Yokosuka, JP",operational,11032,medical_center
+MTF-0141,"Honolulu, HI",operational,16748,clinic
+MTF-0142,"Norfolk, VA",operational,33032,hospital
+MTF-0143,"Colorado Springs, CO",operational,7330,field_hospital
+MTF-0144,"Camp Humphreys, KR",operational,38819,medical_center
+MTF-0145,"Fort Liberty, NC",operational,4736,clinic
+MTF-0146,"San Antonio, TX",degraded,17345,hospital
+MTF-0147,"Landstuhl, DE",operational,21578,field_hospital
+MTF-0148,"Yokosuka, JP",operational,40462,medical_center
+MTF-0149,"Honolulu, HI",operational,6194,clinic
+MTF-0150,"Norfolk, VA",operational,10180,hospital
+MTF-0151,"Colorado Springs, CO",operational,3703,field_hospital
+MTF-0152,"Camp Humphreys, KR",operational,33649,medical_center
+MTF-0153,"Fort Liberty, NC",operational,20544,clinic
+MTF-0154,"San Antonio, TX",operational,35978,hospital
+MTF-0155,"Landstuhl, DE",operational,11324,field_hospital
+MTF-0156,"Yokosuka, JP",operational,36420,medical_center
+MTF-0157,"Honolulu, HI",operational,4740,clinic
+MTF-0158,"Norfolk, VA",operational,23889,hospital
+MTF-0159,"Colorado Springs, CO",operational,39304,field_hospital
+MTF-0160,"Camp Humphreys, KR",operational,32422,medical_center
+MTF-0161,"Fort Liberty, NC",operational,15439,clinic
+MTF-0162,"San Antonio, TX",operational,30229,hospital
+MTF-0163,"Landstuhl, DE",operational,23387,field_hospital
+MTF-0164,"Yokosuka, JP",operational,27995,medical_center
+MTF-0165,"Honolulu, HI",operational,9626,clinic
+MTF-0166,"Norfolk, VA",operational,3819,hospital
+MTF-0167,"Colorado Springs, CO",operational,19982,field_hospital
+MTF-0168,"Camp Humphreys, KR",operational,18215,medical_center
+MTF-0169,"Fort Liberty, NC",operational,41448,clinic
+MTF-0170,"San Antonio, TX",operational,7136,hospital
+MTF-0171,"Landstuhl, DE",operational,14847,field_hospital
+MTF-0172,"Yokosuka, JP",operational,1646,medical_center
+MTF-0173,"Honolulu, HI",operational,2091,clinic
+MTF-0174,"Norfolk, VA",operational,37363,hospital
+MTF-0175,"Colorado Springs, CO",degraded,26126,field_hospital
+MTF-0176,"Camp Humphreys, KR",operational,16699,medical_center
+MTF-0177,"Fort Liberty, NC",operational,18692,clinic
+MTF-0178,"San Antonio, TX",operational,26519,hospital
+MTF-0179,"Landstuhl, DE",operational,21243,field_hospital
+MTF-0180,"Yokosuka, JP",operational,5588,medical_center
+MTF-0181,"Honolulu, HI",operational,13865,clinic
+MTF-0182,"Norfolk, VA",operational,32502,hospital
+MTF-0183,"Colorado Springs, CO",operational,23846,field_hospital
+MTF-0184,"Camp Humphreys, KR",operational,35033,medical_center
+MTF-0185,"Fort Liberty, NC",operational,9090,clinic
+MTF-0186,"San Antonio, TX",operational,20978,hospital
+MTF-0187,"Landstuhl, DE",operational,41575,field_hospital
+MTF-0188,"Yokosuka, JP",operational,34455,medical_center
+MTF-0189,"Honolulu, HI",operational,7310,clinic
+MTF-0190,"Norfolk, VA",operational,28699,hospital
+MTF-0191,"Colorado Springs, CO",operational,35063,field_hospital
+MTF-0192,"Camp Humphreys, KR",operational,3547,medical_center
+MTF-0193,"Fort Liberty, NC",operational,36700,clinic
+MTF-0194,"San Antonio, TX",operational,41430,hospital
+MTF-0195,"Landstuhl, DE",operational,26230,field_hospital
+MTF-0196,"Yokosuka, JP",operational,5746,medical_center
+MTF-0197,"Honolulu, HI",operational,14226,clinic
+MTF-0198,"Norfolk, VA",operational,43324,hospital
+MTF-0199,"Colorado Springs, CO",operational,10008,field_hospital
+MTF-0200,"Camp Humphreys, KR",operational,31706,medical_center
+MTF-0201,"Fort Liberty, NC",operational,33222,clinic
+MTF-0202,"San Antonio, TX",operational,38170,hospital
+MTF-0203,"Landstuhl, DE",operational,12307,field_hospital
+MTF-0204,"Yokosuka, JP",degraded,6059,medical_center
+MTF-0205,"Honolulu, HI",operational,43808,clinic
+MTF-0206,"Norfolk, VA",operational,32104,hospital
+MTF-0207,"Colorado Springs, CO",operational,25126,field_hospital
+MTF-0208,"Camp Humphreys, KR",operational,43846,medical_center
+MTF-0209,"Fort Liberty, NC",operational,42168,clinic
+MTF-0210,"San Antonio, TX",operational,22963,hospital
+MTF-0211,"Landstuhl, DE",operational,5846,field_hospital
+MTF-0212,"Yokosuka, JP",operational,6091,medical_center
+MTF-0213,"Honolulu, HI",operational,26755,clinic
+MTF-0214,"Norfolk, VA",operational,8110,hospital
+MTF-0215,"Colorado Springs, CO",operational,5383,field_hospital
+MTF-0216,"Camp Humphreys, KR",operational,40706,medical_center
+MTF-0217,"Fort Liberty, NC",operational,14170,clinic
+MTF-0218,"San Antonio, TX",operational,33675,hospital
+MTF-0219,"Landstuhl, DE",operational,11466,field_hospital
+MTF-0220,"Yokosuka, JP",operational,23432,medical_center
+MTF-0221,"Honolulu, HI",operational,18051,clinic
+MTF-0222,"Norfolk, VA",operational,7776,hospital
+MTF-0223,"Colorado Springs, CO",operational,38984,field_hospital
+MTF-0224,"Camp Humphreys, KR",operational,7732,medical_center
+MTF-0225,"Fort Liberty, NC",operational,38963,clinic
+MTF-0226,"San Antonio, TX",operational,34928,hospital
+MTF-0227,"Landstuhl, DE",operational,31409,field_hospital
+MTF-0228,"Yokosuka, JP",operational,21136,medical_center
+MTF-0229,"Honolulu, HI",operational,35382,clinic
+MTF-0230,"Norfolk, VA",operational,37444,hospital
+MTF-0231,"Colorado Springs, CO",operational,38492,field_hospital
+MTF-0232,"Camp Humphreys, KR",operational,4161,medical_center
+MTF-0233,"Fort Liberty, NC",degraded,35003,clinic
+MTF-0234,"San Antonio, TX",operational,21787,hospital
+MTF-0235,"Landstuhl, DE",operational,33991,field_hospital
+MTF-0236,"Yokosuka, JP",operational,31577,medical_center
+MTF-0237,"Honolulu, HI",operational,22722,clinic
+MTF-0238,"Norfolk, VA",operational,44941,hospital
+MTF-0239,"Colorado Springs, CO",operational,38863,field_hospital
+MTF-0240,"Camp Humphreys, KR",operational,32392,medical_center
+MTF-0241,"Fort Liberty, NC",operational,9264,clinic
+MTF-0242,"San Antonio, TX",operational,14982,hospital
+MTF-0243,"Landstuhl, DE",operational,24958,field_hospital
+MTF-0244,"Yokosuka, JP",operational,16075,medical_center
+MTF-0245,"Honolulu, HI",operational,28075,clinic
+MTF-0246,"Norfolk, VA",operational,5196,hospital
+MTF-0247,"Colorado Springs, CO",operational,19871,field_hospital
+MTF-0248,"Camp Humphreys, KR",operational,43633,medical_center
+MTF-0249,"Fort Liberty, NC",operational,41678,clinic
+MTF-0250,"San Antonio, TX",operational,36659,hospital
+MTF-0251,"Landstuhl, DE",operational,43750,field_hospital
+MTF-0252,"Yokosuka, JP",operational,38818,medical_center
+MTF-0253,"Honolulu, HI",operational,16869,clinic
+MTF-0254,"Norfolk, VA",operational,30876,hospital
+MTF-0255,"Colorado Springs, CO",operational,9459,field_hospital
+MTF-0256,"Camp Humphreys, KR",operational,35334,medical_center
+MTF-0257,"Fort Liberty, NC",operational,38726,clinic
+MTF-0258,"San Antonio, TX",operational,22158,hospital
+MTF-0259,"Landstuhl, DE",operational,40167,field_hospital
+MTF-0260,"Yokosuka, JP",operational,43056,medical_center
+MTF-0261,"Honolulu, HI",operational,33007,clinic
+MTF-0262,"Norfolk, VA",degraded,18560,hospital
+MTF-0263,"Colorado Springs, CO",operational,22978,field_hospital
+MTF-0264,"Camp Humphreys, KR",operational,17896,medical_center
+MTF-0265,"Fort Liberty, NC",operational,12703,clinic
+MTF-0266,"San Antonio, TX",operational,23833,hospital
+MTF-0267,"Landstuhl, DE",operational,31947,field_hospital
+MTF-0268,"Yokosuka, JP",operational,30576,medical_center
+MTF-0269,"Honolulu, HI",operational,40072,clinic
+MTF-0270,"Norfolk, VA",operational,31946,hospital
+MTF-0271,"Colorado Springs, CO",operational,16343,field_hospital
+MTF-0272,"Camp Humphreys, KR",operational,28671,medical_center
+MTF-0273,"Fort Liberty, NC",operational,41126,clinic
+MTF-0274,"San Antonio, TX",operational,39392,hospital
+MTF-0275,"Landstuhl, DE",operational,9245,field_hospital
+MTF-0276,"Yokosuka, JP",operational,21465,medical_center
+MTF-0277,"Honolulu, HI",operational,21198,clinic
+MTF-0278,"Norfolk, VA",operational,42581,hospital
+MTF-0279,"Colorado Springs, CO",operational,31096,field_hospital
+MTF-0280,"Camp Humphreys, KR",operational,15224,medical_center
+MTF-0281,"Fort Liberty, NC",operational,39795,clinic
+MTF-0282,"San Antonio, TX",operational,43276,hospital
+MTF-0283,"Landstuhl, DE",operational,31026,field_hospital
+MTF-0284,"Yokosuka, JP",operational,16650,medical_center
+MTF-0285,"Honolulu, HI",operational,26087,clinic
+MTF-0286,"Norfolk, VA",operational,7133,hospital
+MTF-0287,"Colorado Springs, CO",operational,41864,field_hospital
+MTF-0288,"Camp Humphreys, KR",operational,32905,medical_center
+MTF-0289,"Fort Liberty, NC",operational,17026,clinic
+MTF-0290,"San Antonio, TX",operational,43062,hospital
+MTF-0291,"Landstuhl, DE",degraded,23849,field_hospital
+MTF-0292,"Yokosuka, JP",operational,7713,medical_center
+MTF-0293,"Honolulu, HI",operational,31683,clinic
+MTF-0294,"Norfolk, VA",operational,14187,hospital
+MTF-0295,"Colorado Springs, CO",operational,40240,field_hospital
+MTF-0296,"Camp Humphreys, KR",operational,44669,medical_center
+MTF-0297,"Fort Liberty, NC",operational,8026,clinic
+MTF-0298,"San Antonio, TX",operational,27406,hospital
+MTF-0299,"Landstuhl, DE",operational,39579,field_hospital
+MTF-0300,"Yokosuka, JP",operational,34002,medical_center
+MTF-0301,"Honolulu, HI",operational,17011,clinic
+MTF-0302,"Norfolk, VA",operational,11071,hospital
+MTF-0303,"Colorado Springs, CO",operational,43555,field_hospital
+MTF-0304,"Camp Humphreys, KR",operational,35206,medical_center
+MTF-0305,"Fort Liberty, NC",operational,930,clinic
+MTF-0306,"San Antonio, TX",operational,28012,hospital
+MTF-0307,"Landstuhl, DE",operational,37482,field_hospital
+MTF-0308,"Yokosuka, JP",operational,20008,medical_center
+MTF-0309,"Honolulu, HI",operational,29661,clinic
+MTF-0310,"Norfolk, VA",operational,720,hospital
+MTF-0311,"Colorado Springs, CO",operational,28566,field_hospital
+MTF-0312,"Camp Humphreys, KR",operational,38838,medical_center
+MTF-0313,"Fort Liberty, NC",operational,32494,clinic
+MTF-0314,"San Antonio, TX",operational,28630,hospital
+MTF-0315,"Landstuhl, DE",operational,36248,field_hospital
+MTF-0316,"Yokosuka, JP",operational,16034,medical_center
+MTF-0317,"Honolulu, HI",operational,21436,clinic
+MTF-0318,"Norfolk, VA",operational,41070,hospital
+MTF-0319,"Colorado Springs, CO",operational,12544,field_hospital
+MTF-0320,"Camp Humphreys, KR",degraded,36694,medical_center
+MTF-0321,"Fort Liberty, NC",operational,8438,clinic
+MTF-0322,"San Antonio, TX",operational,32590,hospital
+MTF-0323,"Landstuhl, DE",operational,12904,field_hospital
+MTF-0324,"Yokosuka, JP",operational,41142,medical_center
+MTF-0325,"Honolulu, HI",operational,31655,clinic
+MTF-0326,"Norfolk, VA",operational,2470,hospital
+MTF-0327,"Colorado Springs, CO",operational,14774,field_hospital
+MTF-0328,"Camp Humphreys, KR",operational,34681,medical_center
+MTF-0329,"Fort Liberty, NC",operational,4963,clinic
+MTF-0330,"San Antonio, TX",operational,21866,hospital
+MTF-0331,"Landstuhl, DE",operational,38139,field_hospital
+MTF-0332,"Yokosuka, JP",operational,17873,medical_center
+MTF-0333,"Honolulu, HI",operational,6105,clinic
+MTF-0334,"Norfolk, VA",operational,17652,hospital
+MTF-0335,"Colorado Springs, CO",operational,31958,field_hospital
+MTF-0336,"Camp Humphreys, KR",operational,10720,medical_center
+MTF-0337,"Fort Liberty, NC",operational,27901,clinic
+MTF-0338,"San Antonio, TX",operational,30172,hospital
+MTF-0339,"Landstuhl, DE",operational,25039,field_hospital
+MTF-0340,"Yokosuka, JP",operational,21269,medical_center
+MTF-0341,"Honolulu, HI",operational,8165,clinic
+MTF-0342,"Norfolk, VA",operational,22203,hospital
+MTF-0343,"Colorado Springs, CO",operational,27519,field_hospital
+MTF-0344,"Camp Humphreys, KR",operational,42772,medical_center
+MTF-0345,"Fort Liberty, NC",operational,30536,clinic
+MTF-0346,"San Antonio, TX",operational,18584,hospital
+MTF-0347,"Landstuhl, DE",operational,25721,field_hospital
+MTF-0348,"Yokosuka, JP",operational,41150,medical_center
+MTF-0349,"Honolulu, HI",degraded,21068,clinic
+MTF-0350,"Norfolk, VA",operational,32086,hospital
+MTF-0351,"Colorado Springs, CO",operational,23826,field_hospital
+MTF-0352,"Camp Humphreys, KR",operational,39146,medical_center
+MTF-0353,"Fort Liberty, NC",operational,12078,clinic
+MTF-0354,"San Antonio, TX",operational,43201,hospital
+MTF-0355,"Landstuhl, DE",operational,7879,field_hospital
+MTF-0356,"Yokosuka, JP",operational,14191,medical_center
+MTF-0357,"Honolulu, HI",operational,8830,clinic
+MTF-0358,"Norfolk, VA",operational,1190,hospital
+MTF-0359,"Colorado Springs, CO",operational,30309,field_hospital
+MTF-0360,"Camp Humphreys, KR",operational,5584,medical_center
+MTF-0361,"Fort Liberty, NC",operational,18795,clinic
+MTF-0362,"San Antonio, TX",operational,2829,hospital
+MTF-0363,"Landstuhl, DE",operational,1234,field_hospital
+MTF-0364,"Yokosuka, JP",operational,36778,medical_center
+MTF-0365,"Honolulu, HI",operational,13337,clinic
+MTF-0366,"Norfolk, VA",operational,15409,hospital
+MTF-0367,"Colorado Springs, CO",operational,29990,field_hospital
+MTF-0368,"Camp Humphreys, KR",operational,3629,medical_center
+MTF-0369,"Fort Liberty, NC",operational,3295,clinic
+MTF-0370,"San Antonio, TX",operational,34709,hospital
+MTF-0371,"Landstuhl, DE",operational,35392,field_hospital
+MTF-0372,"Yokosuka, JP",operational,2134,medical_center
+MTF-0373,"Honolulu, HI",operational,20577,clinic
+MTF-0374,"Norfolk, VA",operational,22248,hospital
+MTF-0375,"Colorado Springs, CO",operational,24419,field_hospital
+MTF-0376,"Camp Humphreys, KR",operational,22776,medical_center
+MTF-0377,"Fort Liberty, NC",operational,31471,clinic
+MTF-0378,"San Antonio, TX",degraded,758,hospital
+MTF-0379,"Landstuhl, DE",operational,2599,field_hospital
+MTF-0380,"Yokosuka, JP",operational,41242,medical_center
+MTF-0381,"Honolulu, HI",operational,41045,clinic
+MTF-0382,"Norfolk, VA",operational,30468,hospital
+MTF-0383,"Colorado Springs, CO",operational,3510,field_hospital
+MTF-0384,"Camp Humphreys, KR",operational,33400,medical_center
+MTF-0385,"Fort Liberty, NC",operational,36099,clinic
+MTF-0386,"San Antonio, TX",operational,22359,hospital
+MTF-0387,"Landstuhl, DE",operational,23925,field_hospital
+MTF-0388,"Yokosuka, JP",operational,32033,medical_center
+MTF-0389,"Honolulu, HI",operational,3782,clinic
+MTF-0390,"Norfolk, VA",operational,23259,hospital
+MTF-0391,"Colorado Springs, CO",operational,18294,field_hospital
+MTF-0392,"Camp Humphreys, KR",operational,42471,medical_center
+MTF-0393,"Fort Liberty, NC",operational,7091,clinic
+MTF-0394,"San Antonio, TX",operational,16669,hospital
+MTF-0395,"Landstuhl, DE",operational,28321,field_hospital
+MTF-0396,"Yokosuka, JP",operational,1371,medical_center
+MTF-0397,"Honolulu, HI",operational,42600,clinic
+MTF-0398,"Norfolk, VA",operational,29943,hospital
+MTF-0399,"Colorado Springs, CO",operational,567,field_hospital
+MTF-0400,"Camp Humphreys, KR",operational,18545,medical_center
+MTF-0401,"Fort Liberty, NC",operational,39912,clinic
+MTF-0402,"San Antonio, TX",operational,14468,hospital
+MTF-0403,"Landstuhl, DE",operational,13115,field_hospital
+MTF-0404,"Yokosuka, JP",operational,40311,medical_center
+MTF-0405,"Honolulu, HI",operational,17426,clinic
+MTF-0406,"Norfolk, VA",operational,44710,hospital
+MTF-0407,"Colorado Springs, CO",degraded,41456,field_hospital
+MTF-0408,"Camp Humphreys, KR",operational,42040,medical_center
+MTF-0409,"Fort Liberty, NC",operational,19639,clinic
+MTF-0410,"San Antonio, TX",operational,13531,hospital
+MTF-0411,"Landstuhl, DE",operational,6893,field_hospital
+MTF-0412,"Yokosuka, JP",operational,44130,medical_center
+MTF-0413,"Honolulu, HI",operational,6341,clinic
+MTF-0414,"Norfolk, VA",operational,14883,hospital
+MTF-0415,"Colorado Springs, CO",operational,16375,field_hospital
+MTF-0416,"Camp Humphreys, KR",operational,13289,medical_center
+MTF-0417,"Fort Liberty, NC",operational,8691,clinic
+MTF-0418,"San Antonio, TX",operational,35041,hospital
+MTF-0419,"Landstuhl, DE",operational,1793,field_hospital
+MTF-0420,"Yokosuka, JP",operational,33660,medical_center
+MTF-0421,"Honolulu, HI",operational,32748,clinic
+MTF-0422,"Norfolk, VA",operational,32220,hospital
+MTF-0423,"Colorado Springs, CO",operational,24909,field_hospital
+MTF-0424,"Camp Humphreys, KR",operational,30881,medical_center
+MTF-0425,"Fort Liberty, NC",operational,3209,clinic
+MTF-0426,"San Antonio, TX",operational,27018,hospital
+MTF-0427,"Landstuhl, DE",operational,33208,field_hospital
+MTF-0428,"Yokosuka, JP",operational,34385,medical_center
+MTF-0429,"Honolulu, HI",operational,6701,clinic
+MTF-0430,"Norfolk, VA",operational,15237,hospital
+MTF-0431,"Colorado Springs, CO",operational,43582,field_hospital
+MTF-0432,"Camp Humphreys, KR",operational,16275,medical_center
+MTF-0433,"Fort Liberty, NC",operational,37087,clinic
+MTF-0434,"San Antonio, TX",operational,15301,hospital
+MTF-0435,"Landstuhl, DE",operational,6388,field_hospital
+MTF-0436,"Yokosuka, JP",degraded,2824,medical_center
+MTF-0437,"Honolulu, HI",operational,13905,clinic
+MTF-0438,"Norfolk, VA",operational,39575,hospital
+MTF-0439,"Colorado Springs, CO",operational,37547,field_hospital
+MTF-0440,"Camp Humphreys, KR",operational,8702,medical_center
+MTF-0441,"Fort Liberty, NC",operational,10667,clinic
+MTF-0442,"San Antonio, TX",operational,12538,hospital
+MTF-0443,"Landstuhl, DE",operational,26460,field_hospital
+MTF-0444,"Yokosuka, JP",operational,22701,medical_center
+MTF-0445,"Honolulu, HI",operational,17852,clinic
+MTF-0446,"Norfolk, VA",operational,25884,hospital
+MTF-0447,"Colorado Springs, CO",operational,41677,field_hospital
+MTF-0448,"Camp Humphreys, KR",operational,17845,medical_center
+MTF-0449,"Fort Liberty, NC",operational,590,clinic
+MTF-0450,"San Antonio, TX",operational,41225,hospital
+MTF-0451,"Landstuhl, DE",operational,30338,field_hospital
+MTF-0452,"Yokosuka, JP",operational,14382,medical_center
+MTF-0453,"Honolulu, HI",operational,43128,clinic
+MTF-0454,"Norfolk, VA",operational,31253,hospital
+MTF-0455,"Colorado Springs, CO",operational,33059,field_hospital
+MTF-0456,"Camp Humphreys, KR",operational,12800,medical_center
+MTF-0457,"Fort Liberty, NC",operational,27299,clinic
+MTF-0458,"San Antonio, TX",operational,3765,hospital
+MTF-0459,"Landstuhl, DE",operational,11054,field_hospital
+MTF-0460,"Yokosuka, JP",operational,25614,medical_center
+MTF-0461,"Honolulu, HI",operational,38868,clinic
+MTF-0462,"Norfolk, VA",operational,31661,hospital
+MTF-0463,"Colorado Springs, CO",operational,39900,field_hospital
+MTF-0464,"Camp Humphreys, KR",operational,2821,medical_center
+MTF-0465,"Fort Liberty, NC",degraded,36698,clinic
+MTF-0466,"San Antonio, TX",operational,22569,hospital
+MTF-0467,"Landstuhl, DE",operational,33490,field_hospital
+MTF-0468,"Yokosuka, JP",operational,35524,medical_center
+MTF-0469,"Honolulu, HI",operational,872,clinic
+MTF-0470,"Norfolk, VA",operational,40962,hospital
+MTF-0471,"Colorado Springs, CO",operational,41836,field_hospital
+MTF-0472,"Camp Humphreys, KR",operational,31845,medical_center
+MTF-0473,"Fort Liberty, NC",operational,6973,clinic
+MTF-0474,"San Antonio, TX",operational,4172,hospital
+MTF-0475,"Landstuhl, DE",operational,41511,field_hospital
+MTF-0476,"Yokosuka, JP",operational,28415,medical_center
+MTF-0477,"Honolulu, HI",operational,40880,clinic
+MTF-0478,"Norfolk, VA",operational,32402,hospital
+MTF-0479,"Colorado Springs, CO",operational,17645,field_hospital
+MTF-0480,"Camp Humphreys, KR",operational,42292,medical_center
+MTF-0481,"Fort Liberty, NC",operational,2564,clinic
+MTF-0482,"San Antonio, TX",operational,29403,hospital
+MTF-0483,"Landstuhl, DE",operational,35013,field_hospital
+MTF-0484,"Yokosuka, JP",operational,25835,medical_center
+MTF-0485,"Honolulu, HI",operational,2485,clinic
+MTF-0486,"Norfolk, VA",operational,18667,hospital
+MTF-0487,"Colorado Springs, CO",operational,6875,field_hospital
+MTF-0488,"Camp Humphreys, KR",operational,8658,medical_center
+MTF-0489,"Fort Liberty, NC",operational,41796,clinic
+MTF-0490,"San Antonio, TX",operational,12059,hospital
+MTF-0491,"Landstuhl, DE",operational,38372,field_hospital
+MTF-0492,"Yokosuka, JP",operational,32429,medical_center
+MTF-0493,"Honolulu, HI",operational,3232,clinic
+MTF-0494,"Norfolk, VA",degraded,23463,hospital
+MTF-0495,"Colorado Springs, CO",operational,7367,field_hospital
+MTF-0496,"Camp Humphreys, KR",operational,29383,medical_center
+MTF-0497,"Fort Liberty, NC",operational,659,clinic
+MTF-0498,"San Antonio, TX",operational,5639,hospital
+MTF-0499,"Landstuhl, DE",operational,38300,field_hospital
+MTF-0500,"Yokosuka, JP",operational,29076,medical_center
+MTF-0501,"Honolulu, HI",operational,33850,clinic
+MTF-0502,"Norfolk, VA",operational,33624,hospital
+MTF-0503,"Colorado Springs, CO",operational,20191,field_hospital
+MTF-0504,"Camp Humphreys, KR",operational,20996,medical_center
+MTF-0505,"Fort Liberty, NC",operational,42264,clinic
+MTF-0506,"San Antonio, TX",operational,1086,hospital
+MTF-0507,"Landstuhl, DE",operational,24608,field_hospital
+MTF-0508,"Yokosuka, JP",operational,13300,medical_center
+MTF-0509,"Honolulu, HI",operational,38643,clinic
+MTF-0510,"Norfolk, VA",operational,20755,hospital
+MTF-0511,"Colorado Springs, CO",operational,19488,field_hospital
+MTF-0512,"Camp Humphreys, KR",operational,38050,medical_center
+MTF-0513,"Fort Liberty, NC",operational,14424,clinic
+MTF-0514,"San Antonio, TX",operational,16570,hospital
+MTF-0515,"Landstuhl, DE",operational,44876,field_hospital
+MTF-0516,"Yokosuka, JP",operational,42469,medical_center
+MTF-0517,"Honolulu, HI",operational,32050,clinic
+MTF-0518,"Norfolk, VA",operational,32407,hospital
+MTF-0519,"Colorado Springs, CO",operational,25216,field_hospital
+MTF-0520,"Camp Humphreys, KR",operational,17331,medical_center
+MTF-0521,"Fort Liberty, NC",operational,40425,clinic
+MTF-0522,"San Antonio, TX",operational,34305,hospital
+MTF-0523,"Landstuhl, DE",degraded,6023,field_hospital
+MTF-0524,"Yokosuka, JP",operational,12768,medical_center
+MTF-0525,"Honolulu, HI",operational,28850,clinic
+MTF-0526,"Norfolk, VA",operational,41277,hospital
+MTF-0527,"Colorado Springs, CO",operational,11804,field_hospital
+MTF-0528,"Camp Humphreys, KR",operational,14352,medical_center
+MTF-0529,"Fort Liberty, NC",operational,33427,clinic
+MTF-0530,"San Antonio, TX",operational,6889,hospital
+MTF-0531,"Landstuhl, DE",operational,23801,field_hospital
+MTF-0532,"Yokosuka, JP",operational,19469,medical_center
+MTF-0533,"Honolulu, HI",operational,10523,clinic
+MTF-0534,"Norfolk, VA",operational,41945,hospital
+MTF-0535,"Colorado Springs, CO",operational,8710,field_hospital
+MTF-0536,"Camp Humphreys, KR",operational,42130,medical_center
+MTF-0537,"Fort Liberty, NC",operational,3533,clinic
+MTF-0538,"San Antonio, TX",operational,22188,hospital
+MTF-0539,"Landstuhl, DE",operational,29665,field_hospital
+MTF-0540,"Yokosuka, JP",operational,7955,medical_center
+MTF-0541,"Honolulu, HI",operational,16776,clinic
+MTF-0542,"Norfolk, VA",operational,39142,hospital
+MTF-0543,"Colorado Springs, CO",operational,36891,field_hospital
+MTF-0544,"Camp Humphreys, KR",operational,1735,medical_center
+MTF-0545,"Fort Liberty, NC",operational,518,clinic
+MTF-0546,"San Antonio, TX",operational,3732,hospital
+MTF-0547,"Landstuhl, DE",operational,14582,field_hospital
+MTF-0548,"Yokosuka, JP",operational,6056,medical_center
+MTF-0549,"Honolulu, HI",operational,6215,clinic
+MTF-0550,"Norfolk, VA",operational,16548,hospital
+MTF-0551,"Colorado Springs, CO",operational,14666,field_hospital
+MTF-0552,"Camp Humphreys, KR",degraded,16138,medical_center
+MTF-0553,"Fort Liberty, NC",operational,3703,clinic
+MTF-0554,"San Antonio, TX",operational,14664,hospital
+MTF-0555,"Landstuhl, DE",operational,19725,field_hospital
+MTF-0556,"Yokosuka, JP",operational,3142,medical_center
+MTF-0557,"Honolulu, HI",operational,20183,clinic
+MTF-0558,"Norfolk, VA",operational,19617,hospital
+MTF-0559,"Colorado Springs, CO",operational,33509,field_hospital
+MTF-0560,"Camp Humphreys, KR",operational,10317,medical_center
+MTF-0561,"Fort Liberty, NC",operational,25992,clinic
+MTF-0562,"San Antonio, TX",operational,8202,hospital
+MTF-0563,"Landstuhl, DE",operational,7576,field_hospital
+MTF-0564,"Yokosuka, JP",operational,10010,medical_center
+MTF-0565,"Honolulu, HI",operational,26742,clinic
+MTF-0566,"Norfolk, VA",operational,40942,hospital
+MTF-0567,"Colorado Springs, CO",operational,24717,field_hospital
+MTF-0568,"Camp Humphreys, KR",operational,6162,medical_center
+MTF-0569,"Fort Liberty, NC",operational,31567,clinic
+MTF-0570,"San Antonio, TX",operational,3645,hospital
+MTF-0571,"Landstuhl, DE",operational,13948,field_hospital
+MTF-0572,"Yokosuka, JP",operational,32551,medical_center
+MTF-0573,"Honolulu, HI",operational,23326,clinic
+MTF-0574,"Norfolk, VA",operational,19645,hospital
+MTF-0575,"Colorado Springs, CO",operational,18513,field_hospital
+MTF-0576,"Camp Humphreys, KR",operational,19660,medical_center
+MTF-0577,"Fort Liberty, NC",operational,23235,clinic
+MTF-0578,"San Antonio, TX",operational,20403,hospital
+MTF-0579,"Landstuhl, DE",operational,2394,field_hospital
+MTF-0580,"Yokosuka, JP",operational,3692,medical_center
+MTF-0581,"Honolulu, HI",degraded,42039,clinic
+MTF-0582,"Norfolk, VA",operational,43799,hospital
+MTF-0583,"Colorado Springs, CO",operational,16538,field_hospital
+MTF-0584,"Camp Humphreys, KR",operational,5347,medical_center
+MTF-0585,"Fort Liberty, NC",operational,32434,clinic
+MTF-0586,"San Antonio, TX",operational,37060,hospital
+MTF-0587,"Landstuhl, DE",operational,44042,field_hospital
+MTF-0588,"Yokosuka, JP",operational,29629,medical_center
+MTF-0589,"Honolulu, HI",operational,13112,clinic
+MTF-0590,"Norfolk, VA",operational,43883,hospital
+MTF-0591,"Colorado Springs, CO",operational,11755,field_hospital
+MTF-0592,"Camp Humphreys, KR",operational,26062,medical_center
+MTF-0593,"Fort Liberty, NC",operational,11889,clinic
+MTF-0594,"San Antonio, TX",operational,19969,hospital
+MTF-0595,"Landstuhl, DE",operational,21813,field_hospital
+MTF-0596,"Yokosuka, JP",operational,15829,medical_center
+MTF-0597,"Honolulu, HI",operational,20521,clinic
+MTF-0598,"Norfolk, VA",operational,766,hospital
+MTF-0599,"Colorado Springs, CO",operational,22259,field_hospital
+MTF-0600,"Camp Humphreys, KR",operational,24960,medical_center
+MTF-0601,"Fort Liberty, NC",operational,31439,clinic
+MTF-0602,"San Antonio, TX",operational,21383,hospital
+MTF-0603,"Landstuhl, DE",operational,16074,field_hospital
+MTF-0604,"Yokosuka, JP",operational,7826,medical_center
+MTF-0605,"Honolulu, HI",operational,15254,clinic
+MTF-0606,"Norfolk, VA",operational,729,hospital
+MTF-0607,"Colorado Springs, CO",operational,5492,field_hospital
+MTF-0608,"Camp Humphreys, KR",operational,829,medical_center
+MTF-0609,"Fort Liberty, NC",operational,20502,clinic
+MTF-0610,"San Antonio, TX",degraded,35601,hospital
+MTF-0611,"Landstuhl, DE",operational,36673,field_hospital
+MTF-0612,"Yokosuka, JP",operational,790,medical_center
+MTF-0613,"Honolulu, HI",operational,9739,clinic
+MTF-0614,"Norfolk, VA",operational,4002,hospital
+MTF-0615,"Colorado Springs, CO",operational,8867,field_hospital
+MTF-0616,"Camp Humphreys, KR",operational,8170,medical_center
+MTF-0617,"Fort Liberty, NC",operational,36209,clinic
+MTF-0618,"San Antonio, TX",operational,13669,hospital
+MTF-0619,"Landstuhl, DE",operational,35891,field_hospital
+MTF-0620,"Yokosuka, JP",operational,18879,medical_center
+MTF-0621,"Honolulu, HI",operational,41430,clinic
+MTF-0622,"Norfolk, VA",operational,38856,hospital
+MTF-0623,"Colorado Springs, CO",operational,22794,field_hospital
+MTF-0624,"Camp Humphreys, KR",operational,26565,medical_center
+MTF-0625,"Fort Liberty, NC",operational,33689,clinic
+MTF-0626,"San Antonio, TX",operational,36591,hospital
+MTF-0627,"Landstuhl, DE",operational,24296,field_hospital
+MTF-0628,"Yokosuka, JP",operational,19374,medical_center
+MTF-0629,"Honolulu, HI",operational,39038,clinic
+MTF-0630,"Norfolk, VA",operational,20202,hospital
+MTF-0631,"Colorado Springs, CO",operational,25614,field_hospital
+MTF-0632,"Camp Humphreys, KR",operational,10831,medical_center
+MTF-0633,"Fort Liberty, NC",operational,28511,clinic
+MTF-0634,"San Antonio, TX",operational,24083,hospital
+MTF-0635,"Landstuhl, DE",operational,22511,field_hospital
+MTF-0636,"Yokosuka, JP",operational,22091,medical_center
+MTF-0637,"Honolulu, HI",operational,36435,clinic
+MTF-0638,"Norfolk, VA",operational,38242,hospital
+MTF-0639,"Colorado Springs, CO",degraded,42445,field_hospital
+MTF-0640,"Camp Humphreys, KR",operational,32946,medical_center
+MTF-0641,"Fort Liberty, NC",operational,28285,clinic
+MTF-0642,"San Antonio, TX",operational,2356,hospital
+MTF-0643,"Landstuhl, DE",operational,26880,field_hospital
+MTF-0644,"Yokosuka, JP",operational,19084,medical_center
+MTF-0645,"Honolulu, HI",operational,22204,clinic
+MTF-0646,"Norfolk, VA",operational,4633,hospital
+MTF-0647,"Colorado Springs, CO",operational,39921,field_hospital
+MTF-0648,"Camp Humphreys, KR",operational,26262,medical_center
+MTF-0649,"Fort Liberty, NC",operational,44913,clinic
+MTF-0650,"San Antonio, TX",operational,40930,hospital
+MTF-0651,"Landstuhl, DE",operational,33542,field_hospital
+MTF-0652,"Yokosuka, JP",operational,20614,medical_center
+MTF-0653,"Honolulu, HI",operational,3343,clinic
+MTF-0654,"Norfolk, VA",operational,35701,hospital
+MTF-0655,"Colorado Springs, CO",operational,12853,field_hospital
+MTF-0656,"Camp Humphreys, KR",operational,22002,medical_center
+MTF-0657,"Fort Liberty, NC",operational,9502,clinic
+MTF-0658,"San Antonio, TX",operational,36473,hospital
+MTF-0659,"Landstuhl, DE",operational,31915,field_hospital
+MTF-0660,"Yokosuka, JP",operational,14913,medical_center
+MTF-0661,"Honolulu, HI",operational,16134,clinic
+MTF-0662,"Norfolk, VA",operational,15164,hospital
+MTF-0663,"Colorado Springs, CO",operational,40285,field_hospital
+MTF-0664,"Camp Humphreys, KR",operational,32529,medical_center
+MTF-0665,"Fort Liberty, NC",operational,34935,clinic
+MTF-0666,"San Antonio, TX",operational,11186,hospital
+MTF-0667,"Landstuhl, DE",operational,12079,field_hospital
+MTF-0668,"Yokosuka, JP",degraded,19727,medical_center
+MTF-0669,"Honolulu, HI",operational,39659,clinic
+MTF-0670,"Norfolk, VA",operational,27414,hospital
+MTF-0671,"Colorado Springs, CO",operational,43959,field_hospital
+MTF-0672,"Camp Humphreys, KR",operational,26405,medical_center
+MTF-0673,"Fort Liberty, NC",operational,2587,clinic
+MTF-0674,"San Antonio, TX",operational,35705,hospital
+MTF-0675,"Landstuhl, DE",operational,30580,field_hospital
+MTF-0676,"Yokosuka, JP",operational,3126,medical_center
+MTF-0677,"Honolulu, HI",operational,34481,clinic
+MTF-0678,"Norfolk, VA",operational,14798,hospital
+MTF-0679,"Colorado Springs, CO",operational,5687,field_hospital
+MTF-0680,"Camp Humphreys, KR",operational,39726,medical_center
+MTF-0681,"Fort Liberty, NC",operational,30714,clinic
+MTF-0682,"San Antonio, TX",operational,43536,hospital
+MTF-0683,"Landstuhl, DE",operational,23117,field_hospital
+MTF-0684,"Yokosuka, JP",operational,29622,medical_center
+MTF-0685,"Honolulu, HI",operational,17475,clinic
+MTF-0686,"Norfolk, VA",operational,38463,hospital
+MTF-0687,"Colorado Springs, CO",operational,20636,field_hospital
+MTF-0688,"Camp Humphreys, KR",operational,23242,medical_center
+MTF-0689,"Fort Liberty, NC",operational,44479,clinic
+MTF-0690,"San Antonio, TX",operational,26532,hospital
+MTF-0691,"Landstuhl, DE",operational,31659,field_hospital
+MTF-0692,"Yokosuka, JP",operational,8538,medical_center
+MTF-0693,"Honolulu, HI",operational,39317,clinic
+MTF-0694,"Norfolk, VA",operational,30202,hospital
+MTF-0695,"Colorado Springs, CO",operational,8500,field_hospital
+MTF-0696,"Camp Humphreys, KR",operational,3754,medical_center
+MTF-0697,"Fort Liberty, NC",degraded,5151,clinic
+MTF-0698,"San Antonio, TX",operational,32892,hospital
+MTF-0699,"Landstuhl, DE",operational,44952,field_hospital
+MTF-0700,"Yokosuka, JP",operational,23683,medical_center
+MTF-0701,"Honolulu, HI",operational,20128,clinic
+MTF-0702,"Norfolk, VA",operational,14358,hospital
+MTF-0703,"Colorado Springs, CO",operational,17102,field_hospital
+MTF-0704,"Camp Humphreys, KR",operational,25800,medical_center
+MTF-0705,"Fort Liberty, NC",operational,41957,clinic
+MTF-0706,"San Antonio, TX",operational,12189,hospital
+MTF-0707,"Landstuhl, DE",operational,30939,field_hospital
+MTF-0708,"Yokosuka, JP",operational,42795,medical_center
+MTF-0709,"Honolulu, HI",operational,21783,clinic
+MTF-0710,"Norfolk, VA",operational,43239,hospital
+MTF-0711,"Colorado Springs, CO",operational,5886,field_hospital
+MTF-0712,"Camp Humphreys, KR",operational,7108,medical_center
+MTF-0713,"Fort Liberty, NC",operational,41575,clinic
+MTF-0714,"San Antonio, TX",operational,41439,hospital
+MTF-0715,"Landstuhl, DE",operational,27588,field_hospital
+MTF-0716,"Yokosuka, JP",operational,30266,medical_center
+MTF-0717,"Honolulu, HI",operational,22359,clinic
+MTF-0718,"Norfolk, VA",operational,24072,hospital
+MTF-0719,"Colorado Springs, CO",operational,43824,field_hospital
+MTF-0720,"Camp Humphreys, KR",operational,41850,medical_center
+MTF-0721,"Fort Liberty, NC",operational,30307,clinic
+MTF-0722,"San Antonio, TX",operational,42191,hospital
+MTF-0723,"Landstuhl, DE",operational,25121,field_hospital
+MTF-0724,"Yokosuka, JP",operational,18157,medical_center
+MTF-0725,"Honolulu, HI",operational,38255,clinic
+MTF-0726,"Norfolk, VA",degraded,15997,hospital
+MTF-0727,"Colorado Springs, CO",operational,31716,field_hospital
+MTF-0728,"Camp Humphreys, KR",operational,39153,medical_center
+MTF-0729,"Fort Liberty, NC",operational,13891,clinic
+MTF-0730,"San Antonio, TX",operational,12155,hospital
+MTF-0731,"Landstuhl, DE",operational,40150,field_hospital
+MTF-0732,"Yokosuka, JP",operational,1981,medical_center
+MTF-0733,"Honolulu, HI",operational,15462,clinic
+MTF-0734,"Norfolk, VA",operational,18071,hospital
+MTF-0735,"Colorado Springs, CO",operational,16919,field_hospital
+MTF-0736,"Camp Humphreys, KR",operational,31920,medical_center
+MTF-0737,"Fort Liberty, NC",operational,31474,clinic
+MTF-0738,"San Antonio, TX",operational,14862,hospital
+MTF-0739,"Landstuhl, DE",operational,25724,field_hospital
+MTF-0740,"Yokosuka, JP",operational,17281,medical_center
+MTF-0741,"Honolulu, HI",operational,23989,clinic
+MTF-0742,"Norfolk, VA",operational,4825,hospital
+MTF-0743,"Colorado Springs, CO",operational,32462,field_hospital
+MTF-0744,"Camp Humphreys, KR",operational,43404,medical_center
+MTF-0745,"Fort Liberty, NC",operational,23244,clinic
+MTF-0746,"San Antonio, TX",operational,16349,hospital
+MTF-0747,"Landstuhl, DE",operational,17779,field_hospital
+MTF-0748,"Yokosuka, JP",operational,40976,medical_center
+MTF-0749,"Honolulu, HI",operational,43446,clinic
+MTF-0750,"Norfolk, VA",operational,31343,hospital
+MTF-0751,"Colorado Springs, CO",operational,39072,field_hospital
+MTF-0752,"Camp Humphreys, KR",operational,1085,medical_center
+MTF-0753,"Fort Liberty, NC",operational,1215,clinic
+MTF-0754,"San Antonio, TX",operational,13878,hospital
+MTF-0755,"Landstuhl, DE",degraded,28493,field_hospital
+MTF-0756,"Yokosuka, JP",operational,29000,medical_center
+MTF-0757,"Honolulu, HI",operational,7284,clinic
+MTF-0758,"Norfolk, VA",operational,7363,hospital
+MTF-0759,"Colorado Springs, CO",operational,14614,field_hospital
+MTF-0760,"Camp Humphreys, KR",operational,9314,medical_center
+MTF-0761,"Fort Liberty, NC",operational,33672,clinic
+MTF-0762,"San Antonio, TX",operational,11690,hospital
+MTF-0763,"Landstuhl, DE",operational,42549,field_hospital
+MTF-0764,"Yokosuka, JP",operational,1213,medical_center
+MTF-0765,"Honolulu, HI",operational,16690,clinic
+MTF-0766,"Norfolk, VA",operational,30432,hospital
+MTF-0767,"Colorado Springs, CO",operational,12930,field_hospital
+MTF-0768,"Camp Humphreys, KR",operational,1745,medical_center
+MTF-0769,"Fort Liberty, NC",operational,43262,clinic
+MTF-0770,"San Antonio, TX",operational,21784,hospital
+MTF-0771,"Landstuhl, DE",operational,27304,field_hospital
+MTF-0772,"Yokosuka, JP",operational,40103,medical_center
+MTF-0773,"Honolulu, HI",operational,12138,clinic
+MTF-0774,"Norfolk, VA",operational,32068,hospital
+MTF-0775,"Colorado Springs, CO",operational,14083,field_hospital
+MTF-0776,"Camp Humphreys, KR",operational,19549,medical_center
+MTF-0777,"Fort Liberty, NC",operational,41760,clinic
+MTF-0778,"San Antonio, TX",operational,735,hospital
+MTF-0779,"Landstuhl, DE",operational,1364,field_hospital
+MTF-0780,"Yokosuka, JP",operational,25254,medical_center
+MTF-0781,"Honolulu, HI",operational,15099,clinic
+MTF-0782,"Norfolk, VA",operational,27469,hospital
+MTF-0783,"Colorado Springs, CO",operational,11015,field_hospital
+MTF-0784,"Camp Humphreys, KR",degraded,2904,medical_center
+MTF-0785,"Fort Liberty, NC",operational,44971,clinic
+MTF-0786,"San Antonio, TX",operational,34035,hospital
+MTF-0787,"Landstuhl, DE",operational,28070,field_hospital
+MTF-0788,"Yokosuka, JP",operational,38118,medical_center
+MTF-0789,"Honolulu, HI",operational,5402,clinic
+MTF-0790,"Norfolk, VA",operational,34249,hospital
+MTF-0791,"Colorado Springs, CO",operational,21105,field_hospital
+MTF-0792,"Camp Humphreys, KR",operational,30274,medical_center
+MTF-0793,"Fort Liberty, NC",operational,23801,clinic
+MTF-0794,"San Antonio, TX",operational,11468,hospital
+MTF-0795,"Landstuhl, DE",operational,44876,field_hospital
+MTF-0796,"Yokosuka, JP",operational,13040,medical_center
+MTF-0797,"Honolulu, HI",operational,12759,clinic
+MTF-0798,"Norfolk, VA",operational,16202,hospital
+MTF-0799,"Colorado Springs, CO",operational,22631,field_hospital
+MTF-0800,"Camp Humphreys, KR",operational,26456,medical_center
+MTF-0801,"Fort Liberty, NC",operational,24983,clinic
+MTF-0802,"San Antonio, TX",operational,39522,hospital
+MTF-0803,"Landstuhl, DE",operational,18149,field_hospital
+MTF-0804,"Yokosuka, JP",operational,14093,medical_center
+MTF-0805,"Honolulu, HI",operational,21938,clinic
+MTF-0806,"Norfolk, VA",operational,30101,hospital
+MTF-0807,"Colorado Springs, CO",operational,38649,field_hospital
+MTF-0808,"Camp Humphreys, KR",operational,7427,medical_center
+MTF-0809,"Fort Liberty, NC",operational,16450,clinic
+MTF-0810,"San Antonio, TX",operational,33323,hospital
+MTF-0811,"Landstuhl, DE",operational,22874,field_hospital
+MTF-0812,"Yokosuka, JP",operational,25172,medical_center
+MTF-0813,"Honolulu, HI",degraded,3096,clinic
+MTF-0814,"Norfolk, VA",operational,41529,hospital
+MTF-0815,"Colorado Springs, CO",operational,12264,field_hospital
+MTF-0816,"Camp Humphreys, KR",operational,16459,medical_center
+MTF-0817,"Fort Liberty, NC",operational,35879,clinic
+MTF-0818,"San Antonio, TX",operational,1106,hospital
+MTF-0819,"Landstuhl, DE",operational,24749,field_hospital
+MTF-0820,"Yokosuka, JP",operational,9880,medical_center
+MTF-0821,"Honolulu, HI",operational,22772,clinic
+MTF-0822,"Norfolk, VA",operational,32734,hospital
+MTF-0823,"Colorado Springs, CO",operational,7323,field_hospital
+MTF-0824,"Camp Humphreys, KR",operational,18513,medical_center
+MTF-0825,"Fort Liberty, NC",operational,19377,clinic
+MTF-0826,"San Antonio, TX",operational,42220,hospital
+MTF-0827,"Landstuhl, DE",operational,32208,field_hospital
+MTF-0828,"Yokosuka, JP",operational,18694,medical_center
+MTF-0829,"Honolulu, HI",operational,35029,clinic
+MTF-0830,"Norfolk, VA",operational,2026,hospital
+MTF-0831,"Colorado Springs, CO",operational,22496,field_hospital
+MTF-0832,"Camp Humphreys, KR",operational,19925,medical_center
+MTF-0833,"Fort Liberty, NC",operational,22336,clinic
+MTF-0834,"San Antonio, TX",operational,14150,hospital
+MTF-0835,"Landstuhl, DE",operational,39833,field_hospital
+MTF-0836,"Yokosuka, JP",operational,31910,medical_center
+MTF-0837,"Honolulu, HI",operational,20256,clinic
+MTF-0838,"Norfolk, VA",operational,32699,hospital
+MTF-0839,"Colorado Springs, CO",operational,41782,field_hospital
+MTF-0840,"Camp Humphreys, KR",operational,12868,medical_center
+MTF-0841,"Fort Liberty, NC",operational,31430,clinic
+MTF-0842,"San Antonio, TX",degraded,25594,hospital
+MTF-0843,"Landstuhl, DE",operational,30184,field_hospital
+MTF-0844,"Yokosuka, JP",operational,27872,medical_center
+MTF-0845,"Honolulu, HI",operational,26628,clinic
+MTF-0846,"Norfolk, VA",operational,30983,hospital
+MTF-0847,"Colorado Springs, CO",operational,9905,field_hospital
+MTF-0848,"Camp Humphreys, KR",operational,11594,medical_center
+MTF-0849,"Fort Liberty, NC",operational,35284,clinic
+MTF-0850,"San Antonio, TX",operational,20047,hospital
+MTF-0851,"Landstuhl, DE",operational,34027,field_hospital
+MTF-0852,"Yokosuka, JP",operational,9479,medical_center
+MTF-0853,"Honolulu, HI",operational,25220,clinic
+MTF-0854,"Norfolk, VA",operational,23030,hospital
+MTF-0855,"Colorado Springs, CO",operational,44131,field_hospital
+MTF-0856,"Camp Humphreys, KR",operational,2457,medical_center
+MTF-0857,"Fort Liberty, NC",operational,42286,clinic
+MTF-0858,"San Antonio, TX",operational,7431,hospital
+MTF-0859,"Landstuhl, DE",operational,26475,field_hospital
+MTF-0860,"Yokosuka, JP",operational,33478,medical_center
+MTF-0861,"Honolulu, HI",operational,23772,clinic
+MTF-0862,"Norfolk, VA",operational,31932,hospital
+MTF-0863,"Colorado Springs, CO",operational,36976,field_hospital
+MTF-0864,"Camp Humphreys, KR",operational,30222,medical_center
+MTF-0865,"Fort Liberty, NC",operational,1061,clinic
+MTF-0866,"San Antonio, TX",operational,9253,hospital
+MTF-0867,"Landstuhl, DE",operational,15027,field_hospital
+MTF-0868,"Yokosuka, JP",operational,20029,medical_center
+MTF-0869,"Honolulu, HI",operational,38627,clinic
+MTF-0870,"Norfolk, VA",operational,24266,hospital
+MTF-0871,"Colorado Springs, CO",degraded,29333,field_hospital
+MTF-0872,"Camp Humphreys, KR",operational,20145,medical_center
+MTF-0873,"Fort Liberty, NC",operational,24107,clinic
+MTF-0874,"San Antonio, TX",operational,28792,hospital
+MTF-0875,"Landstuhl, DE",operational,8025,field_hospital
+MTF-0876,"Yokosuka, JP",operational,10066,medical_center
+MTF-0877,"Honolulu, HI",operational,13802,clinic
+MTF-0878,"Norfolk, VA",operational,15176,hospital
+MTF-0879,"Colorado Springs, CO",operational,19001,field_hospital
+MTF-0880,"Camp Humphreys, KR",operational,3352,medical_center
+MTF-0881,"Fort Liberty, NC",operational,24572,clinic
+MTF-0882,"San Antonio, TX",operational,1818,hospital
+MTF-0883,"Landstuhl, DE",operational,41504,field_hospital
+MTF-0884,"Yokosuka, JP",operational,24926,medical_center
+MTF-0885,"Honolulu, HI",operational,43236,clinic
+MTF-0886,"Norfolk, VA",operational,20485,hospital
+MTF-0887,"Colorado Springs, CO",operational,5616,field_hospital
+MTF-0888,"Camp Humphreys, KR",operational,33481,medical_center
+MTF-0889,"Fort Liberty, NC",operational,12201,clinic
+MTF-0890,"San Antonio, TX",operational,39349,hospital
+MTF-0891,"Landstuhl, DE",operational,41958,field_hospital
+MTF-0892,"Yokosuka, JP",operational,17763,medical_center
+MTF-0893,"Honolulu, HI",operational,6178,clinic
+MTF-0894,"Norfolk, VA",operational,33829,hospital
+MTF-0895,"Colorado Springs, CO",operational,4995,field_hospital
+MTF-0896,"Camp Humphreys, KR",operational,17110,medical_center
+MTF-0897,"Fort Liberty, NC",operational,24939,clinic
+MTF-0898,"San Antonio, TX",operational,27921,hospital
+MTF-0899,"Landstuhl, DE",operational,14508,field_hospital
+MTF-0900,"Yokosuka, JP",degraded,5746,medical_center
+MTF-0901,"Honolulu, HI",operational,39748,clinic
+MTF-0902,"Norfolk, VA",operational,28838,hospital
+MTF-0903,"Colorado Springs, CO",operational,32880,field_hospital
+MTF-0904,"Camp Humphreys, KR",operational,36478,medical_center
+MTF-0905,"Fort Liberty, NC",operational,7674,clinic
+MTF-0906,"San Antonio, TX",operational,11414,hospital
+MTF-0907,"Landstuhl, DE",operational,22480,field_hospital
+MTF-0908,"Yokosuka, JP",operational,27038,medical_center
+MTF-0909,"Honolulu, HI",operational,24137,clinic
+MTF-0910,"Norfolk, VA",operational,30835,hospital
+MTF-0911,"Colorado Springs, CO",operational,13592,field_hospital
+MTF-0912,"Camp Humphreys, KR",operational,7470,medical_center
+MTF-0913,"Fort Liberty, NC",operational,38664,clinic
+MTF-0914,"San Antonio, TX",operational,19391,hospital
+MTF-0915,"Landstuhl, DE",operational,2880,field_hospital
+MTF-0916,"Yokosuka, JP",operational,11552,medical_center
+MTF-0917,"Honolulu, HI",operational,38474,clinic
+MTF-0918,"Norfolk, VA",operational,35576,hospital
+MTF-0919,"Colorado Springs, CO",operational,14096,field_hospital
+MTF-0920,"Camp Humphreys, KR",operational,7898,medical_center
+MTF-0921,"Fort Liberty, NC",operational,13589,clinic
+MTF-0922,"San Antonio, TX",operational,9474,hospital
+MTF-0923,"Landstuhl, DE",operational,40790,field_hospital
+MTF-0924,"Yokosuka, JP",operational,10493,medical_center
+MTF-0925,"Honolulu, HI",operational,7347,clinic
+MTF-0926,"Norfolk, VA",operational,42011,hospital
+MTF-0927,"Colorado Springs, CO",operational,2458,field_hospital
+MTF-0928,"Camp Humphreys, KR",operational,30049,medical_center
+MTF-0929,"Fort Liberty, NC",degraded,33284,clinic
+MTF-0930,"San Antonio, TX",operational,12752,hospital
+MTF-0931,"Landstuhl, DE",operational,34654,field_hospital
+MTF-0932,"Yokosuka, JP",operational,28179,medical_center
+MTF-0933,"Honolulu, HI",operational,6481,clinic
+MTF-0934,"Norfolk, VA",operational,21085,hospital
+MTF-0935,"Colorado Springs, CO",operational,20724,field_hospital
+MTF-0936,"Camp Humphreys, KR",operational,3030,medical_center
+MTF-0937,"Fort Liberty, NC",operational,26617,clinic
+MTF-0938,"San Antonio, TX",operational,37218,hospital
+MTF-0939,"Landstuhl, DE",operational,42983,field_hospital
+MTF-0940,"Yokosuka, JP",operational,34640,medical_center
+MTF-0941,"Honolulu, HI",operational,26067,clinic
+MTF-0942,"Norfolk, VA",operational,43069,hospital
+MTF-0943,"Colorado Springs, CO",operational,15695,field_hospital
+MTF-0944,"Camp Humphreys, KR",operational,40380,medical_center
+MTF-0945,"Fort Liberty, NC",operational,32524,clinic
+MTF-0946,"San Antonio, TX",operational,40743,hospital
+MTF-0947,"Landstuhl, DE",operational,21960,field_hospital
+MTF-0948,"Yokosuka, JP",operational,25510,medical_center
+MTF-0949,"Honolulu, HI",operational,37255,clinic
+MTF-0950,"Norfolk, VA",operational,29415,hospital
+MTF-0951,"Colorado Springs, CO",operational,39611,field_hospital
+MTF-0952,"Camp Humphreys, KR",operational,22972,medical_center
+MTF-0953,"Fort Liberty, NC",operational,28701,clinic
+MTF-0954,"San Antonio, TX",operational,18069,hospital
+MTF-0955,"Landstuhl, DE",operational,21955,field_hospital
+MTF-0956,"Yokosuka, JP",operational,40182,medical_center
+MTF-0957,"Honolulu, HI",operational,5796,clinic
+MTF-0958,"Norfolk, VA",degraded,19153,hospital
+MTF-0959,"Colorado Springs, CO",operational,19745,field_hospital
+MTF-0960,"Camp Humphreys, KR",operational,30195,medical_center
+MTF-0961,"Fort Liberty, NC",operational,18955,clinic
+MTF-0962,"San Antonio, TX",operational,23853,hospital
+MTF-0963,"Landstuhl, DE",operational,41940,field_hospital
+MTF-0964,"Yokosuka, JP",operational,4763,medical_center
+MTF-0965,"Honolulu, HI",operational,30851,clinic
+MTF-0966,"Norfolk, VA",operational,15311,hospital
+MTF-0967,"Colorado Springs, CO",operational,31398,field_hospital
+MTF-0968,"Camp Humphreys, KR",operational,17412,medical_center
+MTF-0969,"Fort Liberty, NC",operational,23207,clinic
+MTF-0970,"San Antonio, TX",operational,42719,hospital
+MTF-0971,"Landstuhl, DE",operational,31316,field_hospital
+MTF-0972,"Yokosuka, JP",operational,22796,medical_center
+MTF-0973,"Honolulu, HI",operational,30440,clinic
+MTF-0974,"Norfolk, VA",operational,34369,hospital
+MTF-0975,"Colorado Springs, CO",operational,6302,field_hospital
+MTF-0976,"Camp Humphreys, KR",operational,30208,medical_center
+MTF-0977,"Fort Liberty, NC",operational,14652,clinic
+MTF-0978,"San Antonio, TX",operational,17857,hospital
+MTF-0979,"Landstuhl, DE",operational,39146,field_hospital
+MTF-0980,"Yokosuka, JP",operational,1270,medical_center
+MTF-0981,"Honolulu, HI",operational,41559,clinic
+MTF-0982,"Norfolk, VA",operational,2746,hospital
+MTF-0983,"Colorado Springs, CO",operational,33430,field_hospital
+MTF-0984,"Camp Humphreys, KR",operational,20911,medical_center
+MTF-0985,"Fort Liberty, NC",operational,26580,clinic
+MTF-0986,"San Antonio, TX",operational,38153,hospital
+MTF-0987,"Landstuhl, DE",degraded,21288,field_hospital
+MTF-0988,"Yokosuka, JP",operational,35913,medical_center
+MTF-0989,"Honolulu, HI",operational,22455,clinic
+MTF-0990,"Norfolk, VA",operational,34315,hospital
+MTF-0991,"Colorado Springs, CO",operational,6211,field_hospital
+MTF-0992,"Camp Humphreys, KR",operational,23896,medical_center
+MTF-0993,"Fort Liberty, NC",operational,28348,clinic
+MTF-0994,"San Antonio, TX",operational,16339,hospital
+MTF-0995,"Landstuhl, DE",operational,17448,field_hospital
+MTF-0996,"Yokosuka, JP",operational,42757,medical_center
+MTF-0997,"Honolulu, HI",operational,2548,clinic
+MTF-0998,"Norfolk, VA",operational,20951,hospital
+MTF-0999,"Colorado Springs, CO",operational,40158,field_hospital
+MTF-1000,"Camp Humphreys, KR",operational,22180,medical_center
